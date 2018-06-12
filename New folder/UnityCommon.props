@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloLens Client</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Leon\Desktop\hmd-eyes-master\hmd-eyes-master\unity_pupil_plugin_hololens\New folder\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Leon\Desktop\hmd-eyes-master\hmd-eyes-master\unity_pupil_plugin_hololens\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
